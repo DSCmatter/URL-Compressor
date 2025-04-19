@@ -1,10 +1,10 @@
-# 🔗 URL Shortener
+# URL Shortener
 
 A fast, lightweight URL Shortener built using **Go**, **Gin**, and **Redis**. Easily shorten long URLs and get quick redirects using a simple REST API.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Clean RESTful API
 - Fast URL shortening powered by Redis
@@ -37,6 +37,7 @@ A fast, lightweight URL Shortener built using **Go**, **Gin**, and **Redis**. Ea
 
 ```
 git clone https://github.com/your-username/go-url-shortener.git
+
 cd go-url-shortener
 ```
 ### 2. Install dependencies
@@ -72,7 +73,7 @@ The response will look like:
 }
 ```
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome and appreciated! ✨
 
