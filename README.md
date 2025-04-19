@@ -24,7 +24,7 @@ A fast, lightweight URL Shortener built using **Go**, **Gin**, and **Redis**. Ea
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 - Go (v1.18+)
 - Redis installed & running locally (default port `6379`)
@@ -43,7 +43,7 @@ cd go-url-shortener
 ### 2. Install dependencies
 
 ```
-go mod tody
+go mod tidy
 ```
 
 ### 3. Run the server
