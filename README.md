@@ -26,7 +26,7 @@ A fast, lightweight URL Shortener built using **Go**, **Gin**, and **Redis**. Ea
 
 ##  Prerequisites
 
-- Go (v1.18+)
+- Go (Latest)
 - Redis installed & running locally (default port `6379`)
 
 ---
