@@ -1,4 +1,4 @@
-# URL Shortener
+# URL Compressor
 
 A fast, lightweight URL Shortener built using **Go**, **Gin**, and **Redis**. Easily shorten long URLs and get quick redirects using a simple REST API.
 
