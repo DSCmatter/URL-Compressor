@@ -73,6 +73,13 @@ The response will look like:
 }
 ```
 
+### Load testing with `hey`
+
+Install hey with: 
+``` sudo snap install hey ```
+
+![image](https://github.com/user-attachments/assets/05978bc9-1d29-46d4-a11f-a84a61dbd634)
+
 ## 🤝 Contributing
 
 Contributions are welcome and appreciated! ✨
